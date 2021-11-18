@@ -11,3 +11,4 @@ There are two dice on screen that randomly roll between 1-6. They are both compa
   <li>Math.Random </li>
   <li>Dom manipulation with QuerySelector</li>
 </ul>
+<hr>
